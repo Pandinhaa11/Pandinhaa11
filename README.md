@@ -2,4 +2,4 @@
 <h2> Welcome to my profile! </h2>
 <h3> See my so much pretty things here! \/ </h3>
 
-cooming suun :)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandinhaa11)](https://github.com/Pandinhaa11/github-readme-stats)
